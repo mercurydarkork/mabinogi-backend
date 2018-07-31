@@ -1,0 +1,4 @@
+2018-07-30T14:15:42 server.go:79 main main INFO 1[0m listen tcp :3216: bind: address already in use
+[31m2018-07-30T14:46:20 server.go:41 panicHandler ServeHTTP.ServeHTTP.func1.ServeHTTP.getApostleTeam.gopanic.call32.recv.panicHandler ERROR 1[0m invalid character '}' looking for beginning of object key string
+[31m2018-07-30T14:46:59 server.go:41 panicHandler ServeHTTP.ServeHTTP.func1.ServeHTTP.getApostleTeam.gopanic.call32.recv.panicHandler ERROR 2[0m invalid character '}' looking for beginning of object key string
+[31m2018-07-30T14:47:39 server.go:41 panicHandler ServeHTTP.ServeHTTP.func1.ServeHTTP.getApostleTeam.gopanic.call32.recv.panicHandler ERROR 3[0m invalid character '}' looking for beginning of object key string

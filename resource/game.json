@@ -1,0 +1,56 @@
+{
+    "first": {
+        "green": {
+            "medal": "",
+            "name": ""
+        },
+        "grey": {
+            "medal": "",
+            "name": ""
+        },
+        "red": {
+            "medal": "",
+            "name": ""
+        },
+        "yellow": {
+            "medal": "gold",
+            "name": "麦当劳"
+        }
+    },
+    "second": {
+        "green": {
+            "medal": "",
+            "name": ""
+        },
+        "grey": {
+            "medal": "",
+            "name": ""
+        },
+        "red": {
+            "medal": "",
+            "name": ""
+        },
+        "yellow": {
+            "medal": "gold",
+            "name": "麦当劳"
+        }
+    },
+    "third": {
+        "green": {
+            "medal": "",
+            "name": ""
+        },
+        "grey": {
+            "medal": "",
+            "name": ""
+        },
+        "red": {
+            "medal": "",
+            "name": ""
+        },
+        "yellow": {
+            "medal": "gold",
+            "name": "麦当劳"
+        }
+    }
+}
